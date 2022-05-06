@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="demo">
+    <output-path>$PROJECT_DIR$/out/artifacts/demo</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="com.example.demo.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="Spam Detector" />
+        <option name="vendor" value="Imane Abiche" />
+        <option name="version" value="1.0.0" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="demo.jar">
+        <element id="module-output" name="demo" />
+      </element>
+    </root>
+  </artifact>
+</component>
